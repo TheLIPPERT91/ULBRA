@@ -1,0 +1,15 @@
+*{
+    margin: 0px auto;
+}
+
+header{
+    background-color: rgb(207, 235, 235)!important;
+}
+
+nav{
+    background-color: rgb(245, 240, 240);
+}
+
+footer{
+    background-color: rgb(138, 202, 231)!important;
+}
