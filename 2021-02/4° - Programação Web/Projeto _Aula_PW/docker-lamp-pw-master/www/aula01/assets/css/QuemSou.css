@@ -1,0 +1,23 @@
+.fotoLuan{
+    border-radius: 100px;
+    max-width: 60%;
+    max-height: 60%;
+    position:relative;
+	left:40%;
+	top:5%;
+}
+
+#contato{
+    background-color: rgb(132, 238, 132);
+}
+
+#redesSociais{
+    background-color: rgb(106, 207, 106);
+}
+
+img{
+    height: auto; 
+    width: auto; 
+    max-width: 1000px; 
+    max-height: 1000px;
+}
