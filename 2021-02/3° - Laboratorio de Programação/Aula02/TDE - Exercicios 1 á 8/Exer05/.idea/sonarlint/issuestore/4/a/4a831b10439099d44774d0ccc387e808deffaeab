@@ -1,0 +1,35 @@
+
+S	java:S106""9Replace this use of System.out or System.err by a logger.(ºê“Ëıÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(­“•…ÿÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(ºê“Ëıÿÿÿÿ
+S	java:S106("9Replace this use of System.out or System.err by a logger.(î·á°üÿÿÿÿ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(ºê“Ëıÿÿÿÿ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(ˆ¶°øÿÿÿÿ
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(ºê“Ëıÿÿÿÿ
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(·¨³™
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(ÙÉãÁıÿÿÿÿ
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(ï‚·Ò
+2
+java:S11167"Remove this empty statement.(ßò™¹
+g
+java:S1192""LDefine a constant instead of duplicating this literal " era de: R$" 4 times.(ºê“Ëıÿÿÿÿ
+g
+java:S1192""LDefine a constant instead of duplicating this literal "O valor do " 5 times.(ºê“Ëıÿÿÿÿ
+|
+java:S1192#"aDefine a constant instead of duplicating this literal "O total a ser pago serÃ¡ de: R$ " 4 times.(­“•…ÿÿÿÿÿ
+]
+java:S2184 "BCast one of the operands of this division operation to a "double".(¼ªšøÿÿÿÿ
+[
+java:S2184 "@Cast one of the operands of this integer division to a "double".(¼ªšøÿÿÿÿ
+X
+java:S2184%"BCast one of the operands of this division operation to a "double".(Ğ²…Ä
+V
+java:S2184%"@Cast one of the operands of this integer division to a "double".(Ğ²…Ä
+]
+java:S2184*"BCast one of the operands of this division operation to a "double".(•ÆÇËüÿÿÿÿ
+[
+java:S2184*"@Cast one of the operands of this integer division to a "double".(•ÆÇËüÿÿÿÿ
+]
+java:S2184/"BCast one of the operands of this division operation to a "double".(í¿Œşıÿÿÿÿ
+[
+java:S2184/"@Cast one of the operands of this integer division to a "double".(í¿Œşıÿÿÿÿ

@@ -6,9 +6,31 @@ para aprovação é 6.
 
 package com.company;
 
+import javax.swing.*;
+
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+
+	    float prova1;
+	    float prova2;
+	    float trabalho;
+	    float media;
+	    String leitura;
+
+	    leitura = JOptionPane.showInputDialog("Dígite a nota da prova 1:");
+	    prova1= Float.parseFloat(leitura);
+        leitura = JOptionPane.showInputDialog("Dígite a nota da prova 2:");
+        prova2= Float.parseFloat(leitura);
+        leitura = JOptionPane.showInputDialog("Dígite a nota do trabalho:");
+        trabalho= Float.parseFloat(leitura);
+
+        media=(prova1+prova2+trabalho)/3;
+        System.out.println("A sua média é: " +media);
+        if(media>=6){
+            System.out.println("Aprovado!");
+        }if(media<6){
+            System.out.println("Reprovado!");
+        }
     }
 }

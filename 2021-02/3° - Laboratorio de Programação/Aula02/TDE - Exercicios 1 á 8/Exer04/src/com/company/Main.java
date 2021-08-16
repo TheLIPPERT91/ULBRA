@@ -8,9 +8,50 @@ então emita a mensagem: “você já tem o direito a aposentadoria”.
 
 package com.company;
 
+import javax.swing.*;
+import java.util.Scanner;
+
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+
+        int idade;
+        char sexo;
+        char f;
+        char m;
+        int contribuicao;
+        String leitura;
+        int tempoRestante;
+
+        leitura= JOptionPane.showInputDialog("Dígite sua idade: ");
+        idade= Integer.parseInt(leitura);
+        leitura= JOptionPane.showInputDialog("Dígite o seu tempo de contribuição: ");
+        contribuicao= Integer.parseInt(leitura);
+        leitura= JOptionPane.showInputDialog("Digite seu sexo: \nF=> Feminino \nM=> Masculino");
+        sexo= leitura.charAt(0);
+
+        switch(sexo){
+
+            case 'F':
+                    if (idade>=60 || contribuicao>=30){
+                        System.out.println("você já tem o direito a aposentadoria!");
+                    }else if (idade<60 || contribuicao<30){
+                        tempoRestante=30-contribuicao;
+                        System.out.println("Ainda faltam " +tempoRestante+" anos para se aposentar!");
+            }break;
+
+            case 'M':
+                if (idade>=65 || contribuicao>=35){
+                    System.out.println("você já tem o direito a aposentadoria!");
+                }else if (idade<65 || contribuicao<30){
+                    tempoRestante=35-contribuicao;
+                    System.out.println("Ainda faltam " +tempoRestante+" anos para se aposentar!");
+            }break;
+
+            default:
+                System.out.println("Indefinido");
+                break;
+        }
+
     }
 }
