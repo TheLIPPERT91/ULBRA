@@ -10,15 +10,31 @@ a classe JOptionPane.
 
 package com.company;
 
+import javax.swing.*;
+
 public class Main {
 
     public static void main(String[] args) {
 
-        int valorTransacao;
-        int valorVenal;
-        int imposto;
+        double percentualItbi;
+        double valVenal;
+        double valTransacao;
+        double impostoPago;
+        String dado;
 
+        dado= JOptionPane.showInputDialog("Dígite o valor da transação: ");
+        valTransacao= Double.parseDouble(dado);
+        dado= JOptionPane.showInputDialog("Dígite o valor venal: ");
+        valVenal= Double.parseDouble(dado);
+        dado= JOptionPane.showInputDialog("Dígite o porcentagem do imposto: ");
+        percentualItbi= Double.parseDouble(dado);
+        if (valTransacao > valVenal) {
+            impostoPago=valTransacao*percentualItbi/100;
+        }else{
+            impostoPago=valVenal*percentualItbi/100;
+        }
 
+        JOptionPane.showMessageDialog(null, "Imposto a ser pago é: " + impostoPago);
 
     }
 }

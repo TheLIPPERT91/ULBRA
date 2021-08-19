@@ -5,12 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7dfa9e38-6a05-40f3-a15e-448f2a7dc908" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.~lock.Aspectos Fundamentais.pptx#" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exer02/.idea/sonarlint/issuestore/4/a/4a831b10439099d44774d0ccc387e808deffaeab" beforeDir="false" afterPath="$PROJECT_DIR$/../Exer02/.idea/sonarlint/issuestore/4/a/4a831b10439099d44774d0ccc387e808deffaeab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exer02/out/production/Exer02/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Exer02/out/production/Exer02/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exer02/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exer02/src/com/company/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/a/4a831b10439099d44774d0ccc387e808deffaeab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exer04/Exer04.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exer04/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exer04/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exer06/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../Exer06/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exer06/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exer06/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exer07/.idea/sonarlint/issuestore/4/a/4a831b10439099d44774d0ccc387e808deffaeab" beforeDir="false" afterPath="$PROJECT_DIR$/../Exer07/.idea/sonarlint/issuestore/4/a/4a831b10439099d44774d0ccc387e808deffaeab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exer07/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exer07/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../4° - Programação Web/Projeto _Aula_PW/docker-lamp-pw-master/www/aula01/QuemSou.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../4° - Programação Web/Projeto _Aula_PW/docker-lamp-pw-master/www/aula01/assets/css/QuemSou.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../4° - Programação Web/Projeto _Aula_PW/docker-lamp-pw-master/www/aula01/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../4° - Programação Web/Projeto _Aula_PW/docker-lamp-pw-master/www/aula01/assets/fotos/luan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../4° - Programação Web/Projeto _Aula_PW/docker-lamp-pw-master/www/aula01/assets/icones/bootstrap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../4° - Programação Web/Projeto _Aula_PW/docker-lamp-pw-master/www/aula01/assets/icones/javascript.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../4° - Programação Web/Projeto _Aula_PW/docker-lamp-pw-master/www/aula01/assets/icones/php.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../4° - Programação Web/Projeto _Aula_PW/docker-lamp-pw-master/www/aula01/assets/icones/sql.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../4° - Programação Web/Projeto _Aula_PW/docker-lamp-pw-master/www/aula01/assets/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../4° - Programação Web/Projeto _Aula_PW/docker-lamp-pw-master/www/aula01/assets/trabalhos/trabalho1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../4° - Programação Web/Projeto _Aula_PW/docker-lamp-pw-master/www/aula01/assets/trabalhos/trabalho2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../4° - Programação Web/Projeto _Aula_PW/docker-lamp-pw-master/www/aula01/assets/trabalhos/trabalho3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../4° - Programação Web/Projeto _Aula_PW/docker-lamp-pw-master/www/aula01/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../4° - Programação Web/Projeto _Aula_PW/docker-lamp-pw-master/www/aula01/index.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,6 +133,8 @@
       <workItem from="1628994940990" duration="111000" />
       <workItem from="1629060282728" duration="2017000" />
       <workItem from="1629062732057" duration="49000" />
+      <workItem from="1629239728755" duration="74000" />
+      <workItem from="1629396713062" duration="8000" />
     </task>
     <servers />
   </component>

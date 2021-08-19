@@ -6,9 +6,33 @@ incorreta deve aparecer uma mensagem alertando o erro e apresentando a quantidad
 
         package com.company;
 
+import java.util.Scanner;
+
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+        int usuarioAutorizado=1234;
+        int senhaAutorizado=1234;
+        int senhaInformado;
+        int usuarioInformado;
+        int cont=0;
+        boolean logado=false;
+
+        Scanner tc= new Scanner((System.in));
+        do {
+
+            System.out.println("Digite o usuário:");
+            usuarioInformado= tc.nextInt();
+            System.out.println("Digite a senha:");
+            senhaInformado= tc.nextInt();
+
+            cont++;
+            if ((usuarioInformado==usuarioAutorizado)&& (senhaInformado==senhaAutorizado)){
+                System.out.println("Login efetuado com sucesso! Numero de tentativas" +cont);
+                logado=true;
+            }else{
+                System.out.println("Login errado! Numero de tentativa:" + cont);
+            }
+        }while ((cont<3) || (logado));
     }
 }

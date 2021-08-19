@@ -1,0 +1,22 @@
+
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Çµí‘8”ï°ÿµ/
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ìü’Ý
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ë¶«Å
+N	java:S106"9Replace this use of System.out or System.err by a logger.(„Œ§Å
+S	java:S106"9Replace this use of System.out or System.err by a logger.(±˜Î•ùÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(µÝ½™øÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(ÓæêÔùÿÿÿÿ
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(€ÀÕí8Õÿªÿµ/
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.( ·ë’üÿÿÿÿ8 ï°ÿµ/
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(ù¿£Ÿþÿÿÿÿ8 ï°ÿµ/
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(ù¯½Ã8¡ï°ÿµ/
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(Š¼É§8¢ï°ÿµ/
+U	java:S1065"9Replace this use of System.out or System.err by a logger.(´âñà8¢ï°ÿµ/
+T	java:S1067"9Replace this use of System.out or System.err by a logger.(·šð+8£ï°ÿµ/
+J
+java:S1128"(Remove this unused import 'javax.swing'.(Ìí¿Üüÿÿÿÿ8ÒÏÄÿµ/
+{
+java:S1192#"YDefine a constant instead of duplicating this literal "A menor resistencia Ã©: " 4 times.(ÓæêÔùÿÿÿÿ8¤ï°ÿµ/
+v
+java:S1192%"YDefine a constant instead of duplicating this literal "A maior resistencia Ã©: " 4 times.(€ÀÕí8¤ï°ÿµ/
