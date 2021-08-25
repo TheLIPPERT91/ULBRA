@@ -33,6 +33,6 @@ public class Main {
             }else{
                 System.out.println("Login errado! Numero de tentativa:" + cont);
             }
-        }while ((cont<3) || (logado));
+        }while ((cont<3) || (!logado));
     }
 }

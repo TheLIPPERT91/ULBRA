@@ -1,2 +1,0 @@
-<h1>Página de Produtos</h1>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio sint commodi nam aliquam iste voluptatibus recusandae cum perferendis minima culpa, fugit pariatur ipsum sunt maiores molestias officia tempore fuga delectus.</p>
