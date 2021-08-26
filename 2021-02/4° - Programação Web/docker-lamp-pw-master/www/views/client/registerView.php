@@ -34,4 +34,4 @@
         </tr>
     </table>
 </div>
-<button class="btn btn-primary"  onclick="printDiv()">Imprimir cadastro</button>
+<button class="btn btn-primary"  onclick="printDiv()">Imprimir Cadastro</button>
