@@ -24,12 +24,28 @@
     
     <div class="container-fluid">
         <div class="row">
-            <nav class="col-md-2">
-                <h2>MENU:</h2>
-                <a href="?m=h">Home</a><br>
-                <a href="?m=p">Página</a><br>
-                <a href="?m=s">Sobre</a><br>
-                <a href="?m=c">Contato</a><br>
+            <nav class=" navbar-nav col-md-2">
+                <ul class ="navbar-nav">
+                    <h5>MENU:</h5>
+                    <li class="nav-item">
+                        <a id="home" class="nav-link" href="?controller=site&action=home">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a id="products" class="nav-link" href="?controller=site&action=products">Produtos</a>
+                    </li>
+                    <li class="nav-item">
+                        <a id="about" class="nav-link" href="?controller=site&action=about">Sobre</a>
+                    </li>
+                    <li class="nav-item">
+                        <a id="contact" class="nav-link" href="?controller=site&action=contact">Contato</a>
+                    </li>
+                    
+                    <h5>CLIENTES:</h5>
+                    <li class="nav-item">
+                        <a id="" class="nav-link" href="?controller=client&action=register">Cadastro</a>
+                    </li>
+                </ul>
             </nav>
+
 
     <section class="col-10 p-4 ">
